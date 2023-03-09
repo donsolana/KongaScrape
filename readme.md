@@ -7,5 +7,5 @@ In a Python environment with Scrapy and Pandas available, run the following comm
 
 
 ### Features
-It scrolls through all pages and extracts 340 entries.
+It scrolls through all pages and extracts all entries.
 It converts to a csv format that can be easily read by a spreadsheet software or the human eye.
